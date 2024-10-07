@@ -1,0 +1,62 @@
+[
+  {
+    "ContainingType": "PermisosAPI.EndPoints.PermisosEndpoints",
+    "Method": "Crear",
+    "RelativePath": "api/permisos/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "crearPermisoDTO",
+        "Type": "PermisosAPI.DTOs.CrearPermisoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PermisosAPI.DTOs.PermisoDTO",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  },
+  {
+    "ContainingType": "PermisosAPI.EndPoints.PermisosEndpoints",
+    "Method": "ObtenerPermisos",
+    "RelativePath": "api/permisos/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[PermisosAPI.DTOs.PermisoDTO, PermisosAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Program\u002B\u003C\u003Ec__DisplayClass0_0",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__2",
+    "RelativePath": "index",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
