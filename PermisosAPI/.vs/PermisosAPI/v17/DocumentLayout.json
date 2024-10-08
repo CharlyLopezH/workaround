@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Contra\\sistemas\\Desarrollos\\workaround\\PermisosAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD229C8-2EE5-4FD0-A44B-6ED4FA199756}|PermisosAPI.csproj|c:\\contra\\sistemas\\desarrollos\\workaround\\permisosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD229C8-2EE5-4FD0-A44B-6ED4FA199756}|PermisosAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD229C8-2EE5-4FD0-A44B-6ED4FA199756}|PermisosAPI.csproj|c:\\contra\\sistemas\\desarrollos\\workaround\\permisosapi\\endpoints\\permisosendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD229C8-2EE5-4FD0-A44B-6ED4FA199756}|PermisosAPI.csproj|solutionrelative:endpoints\\permisosendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD229C8-2EE5-4FD0-A44B-6ED4FA199756}|PermisosAPI.csproj|c:\\contra\\sistemas\\desarrollos\\workaround\\permisosapi\\endpoints\\conceptosendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD229C8-2EE5-4FD0-A44B-6ED4FA199756}|PermisosAPI.csproj|solutionrelative:endpoints\\conceptosendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD229C8-2EE5-4FD0-A44B-6ED4FA199756}|PermisosAPI.csproj|c:\\contra\\sistemas\\desarrollos\\workaround\\permisosapi\\repositorios\\repositorioconceptos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD229C8-2EE5-4FD0-A44B-6ED4FA199756}|PermisosAPI.csproj|solutionrelative:repositorios\\repositorioconceptos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD229C8-2EE5-4FD0-A44B-6ED4FA199756}|PermisosAPI.csproj|c:\\contra\\sistemas\\desarrollos\\workaround\\permisosapi\\repositorios\\repositoriopermisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD229C8-2EE5-4FD0-A44B-6ED4FA199756}|PermisosAPI.csproj|solutionrelative:repositorios\\repositoriopermisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD229C8-2EE5-4FD0-A44B-6ED4FA199756}|PermisosAPI.csproj|c:\\contra\\sistemas\\desarrollos\\workaround\\permisosapi\\repositorios\\irepositorioconceptos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD229C8-2EE5-4FD0-A44B-6ED4FA199756}|PermisosAPI.csproj|solutionrelative:repositorios\\irepositorioconceptos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD229C8-2EE5-4FD0-A44B-6ED4FA199756}|PermisosAPI.csproj|c:\\contra\\sistemas\\desarrollos\\workaround\\permisosapi\\repositorios\\irepositoriopermisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD229C8-2EE5-4FD0-A44B-6ED4FA199756}|PermisosAPI.csproj|solutionrelative:repositorios\\irepositoriopermisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepositorioPermisos.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\workaround\\PermisosAPI\\Repositorios\\IRepositorioPermisos.cs",
+              "RelativeDocumentMoniker": "Repositorios\\IRepositorioPermisos.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\workaround\\PermisosAPI\\Repositorios\\IRepositorioPermisos.cs",
+              "RelativeToolTip": "Repositorios\\IRepositorioPermisos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:58:00.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepositorioConceptos.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\workaround\\PermisosAPI\\Repositorios\\IRepositorioConceptos.cs",
+              "RelativeDocumentMoniker": "Repositorios\\IRepositorioConceptos.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\workaround\\PermisosAPI\\Repositorios\\IRepositorioConceptos.cs",
+              "RelativeToolTip": "Repositorios\\IRepositorioConceptos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:57:38.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\workaround\\PermisosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\workaround\\PermisosAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:37:58.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositorioPermisos.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\workaround\\PermisosAPI\\Repositorios\\RepositorioPermisos.cs",
+              "RelativeDocumentMoniker": "Repositorios\\RepositorioPermisos.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\workaround\\PermisosAPI\\Repositorios\\RepositorioPermisos.cs",
+              "RelativeToolTip": "Repositorios\\RepositorioPermisos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:33:46.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositorioConceptos.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\workaround\\PermisosAPI\\Repositorios\\RepositorioConceptos.cs",
+              "RelativeDocumentMoniker": "Repositorios\\RepositorioConceptos.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\workaround\\PermisosAPI\\Repositorios\\RepositorioConceptos.cs",
+              "RelativeToolTip": "Repositorios\\RepositorioConceptos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:33:19.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConceptosEndpoints.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\workaround\\PermisosAPI\\Endpoints\\ConceptosEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\ConceptosEndpoints.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\workaround\\PermisosAPI\\Endpoints\\ConceptosEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\ConceptosEndpoints.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:26:50.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PermisosEndpoints.cs",
+              "DocumentMoniker": "C:\\Contra\\sistemas\\Desarrollos\\workaround\\PermisosAPI\\Endpoints\\PermisosEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\PermisosEndpoints.cs",
+              "ToolTip": "C:\\Contra\\sistemas\\Desarrollos\\workaround\\PermisosAPI\\Endpoints\\PermisosEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\PermisosEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:26:55.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

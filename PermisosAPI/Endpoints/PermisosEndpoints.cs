@@ -5,7 +5,7 @@ using PermisosAPI.DTOs;
 using PermisosAPI.Models;
 using PermisosAPI.Repositorios;
 
-namespace PermisosAPI.EndPoints
+namespace PermisosAPI.Endpoints
 {
     public static class PermisosEndpoints
     {
@@ -23,7 +23,7 @@ namespace PermisosAPI.EndPoints
             var id = await repositorio.Crear(permiso);
             await outputCacheStore.EvictByTagAsync("permiso-get", default);
             var permisoDTO = mapper.Map<PermisoDTO>(permiso);
-            return TypedResults.Created($"/adscripciones/{id}", permisoDTO);
+            return TypedResults.Created($"/permisos/{id}", permisoDTO);
 
         }
 
@@ -33,8 +33,6 @@ namespace PermisosAPI.EndPoints
             var permisosDTO = mapper.Map<List<PermisoDTO>>(permisos);
             return TypedResults.Ok(permisosDTO);
         }
-
-
 
     }
 }

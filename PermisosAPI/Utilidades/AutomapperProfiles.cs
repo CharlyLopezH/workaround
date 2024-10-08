@@ -10,6 +10,8 @@ namespace PermisosAPI.Utilidades
         {
             CreateMap<CrearPermisoDTO, Permiso>();
             CreateMap<Permiso, PermisoDTO>();
+            CreateMap<CrearConceptoDTO,Concepto>();
+            CreateMap<Concepto, ConceptoDTO>();
         }
     }
 }

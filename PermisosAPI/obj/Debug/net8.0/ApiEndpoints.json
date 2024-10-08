@@ -1,6 +1,48 @@
 [
   {
-    "ContainingType": "PermisosAPI.EndPoints.PermisosEndpoints",
+    "ContainingType": "PermisosAPI.Endpoints.ConceptosEndpoints",
+    "Method": "Crear",
+    "RelativePath": "api/conceptos/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "crearConceptoDTO",
+        "Type": "PermisosAPI.DTOs.CrearConceptoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PermisosAPI.DTOs.ConceptoDTO",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  },
+  {
+    "ContainingType": "PermisosAPI.Endpoints.ConceptosEndpoints",
+    "Method": "ObtenerConceptos",
+    "RelativePath": "api/conceptos/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[PermisosAPI.DTOs.ConceptoDTO, PermisosAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PermisosAPI.Endpoints.PermisosEndpoints",
     "Method": "Crear",
     "RelativePath": "api/permisos/",
     "HttpMethod": "POST",
@@ -24,7 +66,7 @@
     ]
   },
   {
-    "ContainingType": "PermisosAPI.EndPoints.PermisosEndpoints",
+    "ContainingType": "PermisosAPI.Endpoints.PermisosEndpoints",
     "Method": "ObtenerPermisos",
     "RelativePath": "api/permisos/",
     "HttpMethod": "GET",

@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 using PermisosAPI;
-using PermisosAPI.EndPoints;
+using PermisosAPI.Endpoints;
 using PermisosAPI.Repositorios;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -27,6 +27,7 @@ builder.Services.AddSwaggerGen();
 
 //Servicios de Repositorios
 builder.Services.AddScoped<IRepositorioPermisos, RepositorioPermisos>();
+builder.Services.AddScoped<IRepositorioConceptos, RepositorioConceptos>();
 builder.Services.AddAutoMapper(typeof(Program));
 
 var app = builder.Build();
@@ -38,6 +39,7 @@ app.MapGet("/index", () => "Hello World! origenes permitidos: "+origenesPermitid
 app.UseCors(); //Restringir origenes siguientes
 //Endpoints con MapGroup
 app.MapGroup("/api/permisos").MapPermisos();
+app.MapGroup("/api/conceptos").MapConceptos();
 
 
 app.Run();

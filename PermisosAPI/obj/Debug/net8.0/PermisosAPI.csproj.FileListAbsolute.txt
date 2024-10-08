@@ -135,3 +135,4 @@ C:\Contra\sistemas\Desarrollos\workaround\PermisosAPI\bin\Debug\net8.0\Swashbuck
 C:\Contra\sistemas\Desarrollos\workaround\PermisosAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Contra\sistemas\Desarrollos\workaround\PermisosAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Contra\sistemas\Desarrollos\workaround\PermisosAPI\obj\Debug\net8.0\PermisosAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Contra\sistemas\Desarrollos\workaround\PermisosAPI\obj\Debug\net8.0\PermisosAPI.sourcelink.json
